@@ -1,0 +1,12 @@
+---
+:id: 121968078
+:submitters:
+- :name: Tianmu Wang
+  :email: tiw028@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-04-15 19:45:34.883476000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-04-15 12:45:34.883476000 Z
+:status: processed
+:score: 80.0
